@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Matthew Fabian</title>
+    <link>localhost/post/</link>
+    <description>Recent content in Posts on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2017 23:29:37 -0400</lastBuildDate>
+    
+	<atom:link href="localhost/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming is not a Super-Power</title>
+      <link>localhost/post/programming_is_not_a_superpower/</link>
+      <pubDate>Wed, 23 Aug 2017 23:29:37 -0400</pubDate>
+      
+      <guid>localhost/post/programming_is_not_a_superpower/</guid>
+      <description>Karlie Kloss claims that coding is &amp;ldquo;a weapon, it&amp;rsquo;s like a super-power, it&amp;rsquo;s better than a super-power.&amp;rdquo; While I would agree that programming can be used as a weapon and that it can produce results more powerful than any super-power, I would not agree that programming in and of itself is a super-power. If something is a super-power, there must be something about that ability that is inherently limiting. For example, Superman has the ability to fly.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>localhost/post/about_me/</link>
+      <pubDate>Wed, 23 Aug 2017 14:29:37 -0400</pubDate>
+      
+      <guid>localhost/post/about_me/</guid>
+      <description>Hi! My name is Matthew Fabian, and I am a senior studying Computer Engineering with a minor in Engineering Corporate Practice. I&amp;rsquo;m from sunny Buffalo, NY originally, and I&amp;rsquo;ve spent the past four years living in Alumni Hall. I came to Notre Dame with the intention of studying Electrical Engineering, but changed majors a few days into my junior year. As a fun side effect of that, I&amp;rsquo;ll be one of the first people to graduate following the new CSE curriculum.</description>
+    </item>
+    
+  </channel>
+</rss>
