@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading01 on Matthew Fabian</title>
+    <link>https://mdf730.github.io/ethicsblog/tags/reading01/</link>
+    <description>Recent content in Reading01 on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2017 14:29:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://mdf730.github.io/ethicsblog/tags/reading01/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Computing Industy&#39;s Impact on Income Inequality</title>
+      <link>https://mdf730.github.io/ethicsblog/post/income_inequality/</link>
+      <pubDate>Sun, 27 Aug 2017 14:29:37 -0400</pubDate>
+      
+      <guid>https://mdf730.github.io/ethicsblog/post/income_inequality/</guid>
+      <description>Does the computing industry have an obligation to address social and political issues? Absolutely not. An industry has no obligations, as it is a term used to refer to a branch of companies with similar products. The companies that make up the computing industry likewise have no obligation other than to make their shareholders money. If MegaCorp or BigBusiness can make the most money by ignoring or even flying in the face of sociopolitical issues, I have little doubt that we would see policies in place that accomplish just that.</description>
+    </item>
+    
+  </channel>
+</rss>
