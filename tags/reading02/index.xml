@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading02 on Matthew Fabian</title>
+    <link>https://mdf730.github.io/ethicsblog/tags/reading02/</link>
+    <description>Recent content in Reading02 on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2017 23:29:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://mdf730.github.io/ethicsblog/tags/reading02/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Interview Process</title>
+      <link>https://mdf730.github.io/ethicsblog/post/interview_process/</link>
+      <pubDate>Sun, 03 Sep 2017 23:29:37 -0400</pubDate>
+      
+      <guid>https://mdf730.github.io/ethicsblog/post/interview_process/</guid>
+      <description>As a sophomore, when I was still studying Electrical Engineering, I went to the Career Fair with a list of ten companies in my pocket. My reasons for wanting to talk to these companies varied. Some were working on interesting projects, some were close to home, and a few were picked just because they said they had openings for Electrical Engineering internships. A week after I spoke with people at each of the companies and turned in applications online, a manager at Company X emailed me.</description>
+    </item>
+    
+  </channel>
+</rss>

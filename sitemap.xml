@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mdf730.github.io/ethicsblog/post/interview_process/</loc>
+    <lastmod>2017-09-03T23:29:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mdf730.github.io/ethicsblog/post/income_inequality/</loc>
     <lastmod>2017-08-27T14:29:37-04:00</lastmod>
   </url>
@@ -23,13 +28,13 @@
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/</loc>
-    <lastmod>2017-08-27T14:29:37-04:00</lastmod>
+    <lastmod>2017-09-03T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/post/</loc>
-    <lastmod>2017-08-27T14:29:37-04:00</lastmod>
+    <lastmod>2017-09-03T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,6 +47,12 @@
   <url>
     <loc>https://mdf730.github.io/ethicsblog/tags/reading01/</loc>
     <lastmod>2017-08-27T14:29:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdf730.github.io/ethicsblog/tags/reading02/</loc>
+    <lastmod>2017-09-03T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
