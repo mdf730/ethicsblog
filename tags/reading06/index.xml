@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading06 on Matthew Fabian</title>
+    <link>https://mdf730.github.io/ethicsblog/tags/reading06/</link>
+    <description>Recent content in Reading06 on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 23:29:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://mdf730.github.io/ethicsblog/tags/reading06/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Government Surveillance in a Technological World</title>
+      <link>https://mdf730.github.io/ethicsblog/post/government_surveillance/</link>
+      <pubDate>Sun, 01 Oct 2017 23:29:37 -0400</pubDate>
+      
+      <guid>https://mdf730.github.io/ethicsblog/post/government_surveillance/</guid>
+      <description>Long before the technological age, Benjamin Franklin said, &amp;ldquo;Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.&amp;rdquo; In other words, someone who sacrifices their privacy for their security deserves none. A hot button issue at the moment is whether tech companies should purposely weaken their encryption and security in order to provide government the opportunity to seize data and information related to crime or terror.</description>
+    </item>
+    
+  </channel>
+</rss>
