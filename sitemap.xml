@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mdf730.github.io/ethicsblog/post/about_me-copy/</loc>
+    <lastmod>2017-10-22T14:29:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mdf730.github.io/ethicsblog/post/corporate_personhood/</loc>
+    <lastmod>2017-10-22T14:29:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mdf730.github.io/ethicsblog/post/brittany_wenger/</loc>
     <lastmod>2017-10-05T14:29:38-04:00</lastmod>
   </url>
@@ -58,13 +68,13 @@
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/</loc>
-    <lastmod>2017-10-05T14:29:38-04:00</lastmod>
+    <lastmod>2017-10-22T14:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/post/</loc>
-    <lastmod>2017-10-05T14:29:38-04:00</lastmod>
+    <lastmod>2017-10-22T14:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,6 +123,12 @@
   <url>
     <loc>https://mdf730.github.io/ethicsblog/tags/reading06/</loc>
     <lastmod>2017-10-01T23:29:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdf730.github.io/ethicsblog/tags/reading08/</loc>
+    <lastmod>2017-10-22T14:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
