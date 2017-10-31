@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading09 on Matthew Fabian</title>
+    <link>https://mdf730.github.io/ethicsblog/tags/reading09/</link>
+    <description>Recent content in Reading09 on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2017 14:29:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://mdf730.github.io/ethicsblog/tags/reading09/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Net Neutrality</title>
+      <link>https://mdf730.github.io/ethicsblog/post/net_neutrality/</link>
+      <pubDate>Sun, 29 Oct 2017 14:29:37 -0400</pubDate>
+      
+      <guid>https://mdf730.github.io/ethicsblog/post/net_neutrality/</guid>
+      <description>Net Neutrality is a somewhat controversial concept regarding the public’s equal access to all types of data from the web through their Internet Service Provider (ISP). It says that ISPs are required to provide all of the (legal) data they serve at the same rate and without extra charge to their providers in exchange for faster service. The potential impact here includes preventing ISPs for charging providers for faster connections and from charging customers for different types of data.</description>
+    </item>
+    
+  </channel>
+</rss>
