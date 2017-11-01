@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project03 on Matthew Fabian</title>
+    <link>https://mdf730.github.io/ethicsblog/tags/project03/</link>
+    <description>Recent content in Project03 on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 14:29:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://mdf730.github.io/ethicsblog/tags/project03/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy Paradox</title>
+      <link>https://mdf730.github.io/ethicsblog/post/privacy_paradox/</link>
+      <pubDate>Tue, 31 Oct 2017 14:29:38 -0400</pubDate>
+      
+      <guid>https://mdf730.github.io/ethicsblog/post/privacy_paradox/</guid>
+      <description>I collaborated with Monica Fallon to create this podcast.
+My reflection can be found here.</description>
+    </item>
+    
+  </channel>
+</rss>
