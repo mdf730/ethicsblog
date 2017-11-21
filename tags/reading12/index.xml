@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading12 on Matthew Fabian</title>
+    <link>https://mdf730.github.io/ethicsblog/tags/reading12/</link>
+    <description>Recent content in Reading12 on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2017 14:29:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://mdf730.github.io/ethicsblog/tags/reading12/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Vehicles</title>
+      <link>https://mdf730.github.io/ethicsblog/post/autonomous_vehicles/</link>
+      <pubDate>Sun, 19 Nov 2017 14:29:37 -0400</pubDate>
+      
+      <guid>https://mdf730.github.io/ethicsblog/post/autonomous_vehicles/</guid>
+      <description>Self-driving cars are the proclaimed future of transportation. It seems that for years, auto companies have been making bold predictions that fully autonomous vehicles are just a few years away. The arguments for these vehicles are numerous. First and most importantly, self-driving cars would be supposedly safer than their human-driven counterparts. There are 33,000 to 40,000 driving related fatalities per year, and a vast majority of those are caused by human error.</description>
+    </item>
+    
+  </channel>
+</rss>
