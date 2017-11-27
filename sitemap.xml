@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mdf730.github.io/ethicsblog/post/patent_trolling/</loc>
+    <lastmod>2017-11-26T23:29:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mdf730.github.io/ethicsblog/post/autonomous_vehicles/</loc>
     <lastmod>2017-11-19T14:29:37-04:00</lastmod>
   </url>
@@ -88,13 +93,13 @@
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/</loc>
-    <lastmod>2017-11-19T14:29:37-04:00</lastmod>
+    <lastmod>2017-11-26T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/post/</loc>
-    <lastmod>2017-11-19T14:29:37-04:00</lastmod>
+    <lastmod>2017-11-26T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,6 +178,12 @@
   <url>
     <loc>https://mdf730.github.io/ethicsblog/tags/reading12/</loc>
     <lastmod>2017-11-19T14:29:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdf730.github.io/ethicsblog/tags/reading13/</loc>
+    <lastmod>2017-11-26T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
