@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mdf730.github.io/ethicsblog/post/cs4all/</loc>
+    <lastmod>2017-12-03T23:29:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mdf730.github.io/ethicsblog/post/observer_letter/</loc>
+    <lastmod>2017-12-02T23:29:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mdf730.github.io/ethicsblog/post/patent_trolling/</loc>
     <lastmod>2017-11-26T23:29:37-04:00</lastmod>
   </url>
@@ -93,13 +103,13 @@
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/</loc>
-    <lastmod>2017-11-26T23:29:37-04:00</lastmod>
+    <lastmod>2017-12-03T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mdf730.github.io/ethicsblog/post/</loc>
-    <lastmod>2017-11-26T23:29:37-04:00</lastmod>
+    <lastmod>2017-12-03T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,6 +122,12 @@
   <url>
     <loc>https://mdf730.github.io/ethicsblog/tags/project03/</loc>
     <lastmod>2017-11-02T14:29:38-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdf730.github.io/ethicsblog/tags/project04/</loc>
+    <lastmod>2017-12-02T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -184,6 +200,12 @@
   <url>
     <loc>https://mdf730.github.io/ethicsblog/tags/reading13/</loc>
     <lastmod>2017-11-26T23:29:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdf730.github.io/ethicsblog/tags/reading14/</loc>
+    <lastmod>2017-12-03T23:29:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   

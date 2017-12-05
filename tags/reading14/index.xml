@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading14 on Matthew Fabian</title>
+    <link>https://mdf730.github.io/ethicsblog/tags/reading14/</link>
+    <description>Recent content in Reading14 on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2017 23:29:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://mdf730.github.io/ethicsblog/tags/reading14/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CS4All</title>
+      <link>https://mdf730.github.io/ethicsblog/post/cs4all/</link>
+      <pubDate>Sun, 03 Dec 2017 23:29:37 -0400</pubDate>
+      
+      <guid>https://mdf730.github.io/ethicsblog/post/cs4all/</guid>
+      <description>While I wouldn’t go so far as to say that coding is the new literacy, I believe that society should and will be placing a higher emphasis on coding than other specialized skills that currently take priority such as foreign language or music. In that vein, I would argue that if students are required to take foreign language or fine arts classes, they should also be required to take at least one computer science class.</description>
+    </item>
+    
+  </channel>
+</rss>
